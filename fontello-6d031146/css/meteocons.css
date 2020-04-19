@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'meteocons';
-  src: url('../font/meteocons.eot?88592556');
-  src: url('../font/meteocons.eot?88592556#iefix') format('embedded-opentype'),
-       url('../font/meteocons.woff2?88592556') format('woff2'),
-       url('../font/meteocons.woff?88592556') format('woff'),
-       url('../font/meteocons.ttf?88592556') format('truetype'),
-       url('../font/meteocons.svg?88592556#meteocons') format('svg');
+  src: url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.eot?88592556');
+  src: url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.eot?88592556#iefix') format('embedded-opentype'),
+       url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.woff2?88592556') format('woff2'),
+       url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.woff?88592556') format('woff'),
+       url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.ttf?88592556') format('truetype'),
+       url('https://raw.githubusercontent.com/gtaypeg/cdn/master/fontello-6d031146/font/meteocons.svg#meteocons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
